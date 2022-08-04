@@ -1,0 +1,21 @@
+{
+  "name": "teste1",
+  "version": "1.0.0",
+  "description": "APIREST gestão de teste1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pw3",
+    "nodejs",
+    "etec",
+    "barueri",
+    "3DS"
+  ],
+  "author": "Tainara Amaral",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
